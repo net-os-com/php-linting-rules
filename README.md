@@ -51,4 +51,3 @@ composer lint:fix
 Some tools have integrations to work with your editor. You can find the instructions for each tool below:
 - [TLint for PHPstorm, Sublime or VSCode](https://github.com/tighten/tlint?tab=readme-ov-file#editor-integrations)
 
-
