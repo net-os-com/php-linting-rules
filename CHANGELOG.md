@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/net-os-com/coding-standards/compare/php-linting-rules@0.1.0...php-linting-rules@0.1.1) (2026-06-29)
+
+
+### Bug Fixes
+
+* trigger release ([c6c4d54](https://github.com/net-os-com/coding-standards/commit/c6c4d54deebc9cd31cfd4658ae6ba859187c9f90))
+
 ## [0.1.0](https://github.com/net-os-com/coding-standards/compare/php-linting-rules@0.0.1...php-linting-rules@0.1.0) (2026-06-29)
 
 
