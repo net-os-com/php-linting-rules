@@ -5,12 +5,10 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Mike Meijer",
-      "email": "mike.meijer@net-os.com"
-    },
-    {
-      "name": "Thimon Wentink",
-      "email": "thimon.wentink@net-os.com"
+      "name": "Net OS B.V.",
+      "email": "software@net-os.com",
+      "homepage": "https://net-os.com",
+      "role": "Developer"
     }
   ],
   "require": {
